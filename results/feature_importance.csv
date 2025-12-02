@@ -1,0 +1,839 @@
+Feature,Importance
+"EF7_$2,000 or more",0.5887405663532296
+pay_casheqv_Yes,0.12122628775629277
+K21_d_Yes,0.025577006173018033
+A6_Very confident,0.024777588983361548
+EF7_Under $100,0.024685120091858588
+I0_b_Yes,0.017476596929673457
+atleast_okay_Yes,0.013177197847948532
+C4A_Never carried an unpaid balance (always pay in full),0.012769528350304872
+EF7_$100 to $499,0.011512819830997747
+B2_Living comfortably,0.010173851865358666
+ppfs1482_Excellent,0.01001408312486171
+K21_c_Yes,0.00656835365179291
+ppage,0.0061093935663079635
+DC4_Not comfortable,0.005852561403163523
+B1_a_Rarely,0.005242626789594305
+GH1_Own your home free and clear (without a mortgage or loan),0.005157860476752562
+CaseID,0.004412869287047685
+D1I_Yes,0.004407318660597992
+EF3_a_Yes,0.00400539793131034
+B1_a_Never,0.0038999040647188896
+"ppethm_White, Non-Hispanic",0.003676200680543986
+K21_a_Yes,0.0029518494741211983
+K5A_a_Yes,0.0028767660182559716
+duration,0.002345682399746926
+B0_b_Not at all,0.0023403200540434736
+ND4_a_Yes,0.002173874074237782
+INF3_a_Yes,0.0020059680071088273
+ND4_b_Yes,0.0018698635397739053
+INF3_d_Yes,0.0018427407550382286
+C4A_Some of the time,0.0017894548252982798
+ppt18ov,0.0017670192371642868
+E4_c_Yes,0.0017659628357737911
+ppfs1482_Fair,0.0016941157010047407
+"inc_4cat_50k_Less than $25,000",0.001678375206719233
+weight,0.0015577155180362305
+race_5cat_White,0.001536424637597175
+ppp1date,0.0015357571900238216
+D22_h_Yes,0.001527047795530429
+B1_a_Sometimes,0.0012590812234085265
+I20_The same as your income,0.0012587758832511952
+D1A_Yes,0.00122019744344661
+pph1date,0.0012060827718241407
+B1_a_Often,0.001163677955572885
+D41_d_iflag,0.0011184044517407136
+C3P_did not use any of my credit cards so had no balances,0.0011097901142674662
+GH13_a_Yes,0.001086453211409673
+EF1_iflag,0.001080434495472102
+B0_b_Very little,0.0010289394418155247
+ppp2date,0.0010177697718067903
+ppcmdate,0.0010168288722904918
+"I40_$100,000 to $149,999",0.0009869216502661404
+C2A_Yes,0.0009182317729680855
+ppemploy_Working full-time,0.0008889601366888298
+EF3_c_Yes,0.0008583370248338397
+I21_a_Decreased,0.0008450386721363624
+I20_More than your income,0.0007661146367508594
+"ppcm0160_Health Care Support (such as nursing aide, orderly, dental assistant)",0.0007654646765791237
+ppfsdate,0.0007564367726932842
+D1G_iflag,0.0007170958341285486
+GH12_Yes,0.0007035875251275183
+GH3_e_Very satisfied,0.0007028708405292772
+A6_iflag,0.000690692255484053
+BK2_f_Yes,0.0006780775604232439
+ED0_iflag,0.0006759437932595775
+pce_pct_change,0.0006744588202976054
+"I40_$200,000 or more",0.0006720041836462306
+EF3_e_Yes,0.0006574917650420217
+S16_a_Yes,0.0006427094543647129
+"I40_Less than $5,000",0.0006063717076835988
+pphhsize5,0.000604779763231053
+A6_Not confident,0.0005953986738158192
+B0_b_Somewhat,0.0005946695139407446
+"ND0_Yes, slightly",0.0005783271963459934
+EF2_iflag,0.0005772706513714303
+"I40_$5,000 to $9,999",0.0005734485480843233
+pph10001_Very good,0.0005732501061923729
+SL10A_Yes,0.0005320120921257414
+ppagect4_45–59,0.0005278803996639629
+I21_a_Increased,0.0005261406784883405
+ppstaten_hi,0.0005153014900684855
+real_pce_2022,0.000510880004647496
+income_pct_change,0.0005087258479349668
+CH2A_Bachelor’s degree,0.000498189967087683
+B1_b_Rarely,0.0004707768760465002
+I21_b_Decreased,0.00046807469494574604
+SL11_Yes,0.000459215824396449
+A0_Yes,0.00044306190070926495
+ppmsacat_Non-Metro,0.0004216170873492702
+ND2_Much lower,0.0004199917472118169
+M4_iflag,0.00041634580763730625
+GH13_c_Yes,0.0004091514276522416
+E4_b_Yes,0.00040160194586109156
+K5A_b_Yes,0.0003924899690394576
+BK2_a_Yes,0.0003787315835920898
+DC4_Very comfortable,0.000374473902853036
+E2A_iflag,0.00036108370157713536
+D41_e_iflag,0.00036012494811324083
+ppeduc5_Some college or Associate's degree,0.0003578209249243481
+INF3_f_Yes,0.00035233790430986726
+A0_iflag,0.0003425078677308687
+D22_f_Yes,0.00033859948985940676
+ppcm0160_Architecture and Engineering,0.0003340387730621459
+K14_b_iflag,0.00031715647992430085
+E1_d_Yes,0.00030898120363119736
+ppethm_Hispanic,0.00030275762439592544
+real_income_2022,0.00029463857684601085
+GE62_a_iflag,0.0002925648931067261
+ppreg4_South,0.00029070746794179677
+"ppinc7_$100,000 to $149,999",0.0002865838064753054
+I41_b_Yes,0.00028499840508948877
+C4A_Once,0.0002786045646718675
+ppstaten_dc,0.0002646098801589672
+pph12003_No,0.00026374133691443044
+BK1_Yes,0.0002560502241011857
+EF5C_Yes,0.00025333700750908197
+ppracem_White,0.00023163876784531155
+B0_a_Very well,0.00022838428319297874
+L0_e_Yes,0.0002255282629902791
+B7_b_Poor,0.00022273392561360426
+ppreg4_Northeast,0.00022051644802219898
+weight_pop,0.0002172580351689242
+GH3_c_Very dissatisfied,0.00021608776733022346
+K21_f_iflag,0.00020808504206576783
+GE61_iflag,0.00020696884481906613
+pph12007_No,0.00020487444615673137
+"ind1_Mining, Quarrying, and Oil and Gas Extraction",0.00019862651315076716
+ED1_Undeclared,0.0001958182737559015
+B0_a_iflag,0.00018955770498845623
+Status_Currently National Guard,0.00018542304176460972
+pppa_lgb_Something else,0.0001847734044618519
+BK2_e_Yes,0.00018233716774178308
+ppreg9_South Atlantic,0.0001823237473762072
+I41_b_iflag,0.00018042888815603827
+C3P_iflag,0.0001797416197302879
+SL7_Yes,0.00017960707645258176
+"ppcm0160_Precision Production (such as machinist, welder, baker, printer, tailor)",0.0001745360711227041
+GH12A_iflag,0.00017220474179194421
+ppstaten_ma,0.00017206466400473936
+INF3_c_Yes,0.00017173001234980758
+pph10001_Good,0.00016682906328465186
+ppstaten_ri,0.0001658577249683293
+L0_b_Yes,0.00016419418717307226
+B7_a_Only fair,0.0001620081013630949
+GH2_Before 2023,0.00016141514890695823
+ppstaten_ky,0.00016133348018251045
+K8B_iflag,0.00015893571350882358
+ind1_Wholesale Trade,0.00015879382178355777
+B7_b_iflag,0.00015844410914549637
+ND4_c_Yes,0.00015797556530773273
+I21_b_Increased,0.00015696811067459515
+I41_d_Yes,0.000154672385390553
+D49_iflag,0.00015451681751927615
+ppcm1301_Working in the family business,0.00015443526183630575
+K0_Yes,0.00015390490223319932
+D1B_Very confident,0.00015258050280425952
+D48_Yes,0.00015185630143449262
+E4_e_Yes,0.00015141008368926487
+ppstaten_nj,0.00015099362037220295
+B0_a_Somewhat,0.00014729466084897116
+ppkid017,0.00014566931788725587
+UNION100_Not asked,0.00014401967144275332
+EF7_$500 to $999,0.0001430393313176296
+K21_e_Yes,0.00014201252050787113
+EF3_h_Yes,0.00014179406380230612
+ind1_Public Administration,0.0001385261550769463
+GH1_Own your home with a mortgage or loan,0.00013330644617830082
+"ppinc7_Less than $10,000",0.00013145464284431443
+B1_b_Sometimes,0.00013138489531239436
+real_pce_2023,0.00012533454500569146
+ppreg9_New England,0.00011929975605618443
+B7_a_Poor,0.00010937706031755894
+"I40_$35,000 to $39,999",0.00010928147575180245
+GE2B_Yes,0.00010889688026507449
+ppstaten_nh,0.0001053559063086
+ind1_Armed Forces,0.0001027442402434884
+"ppcm0160_Financial Operations or Financial Services (including Financial Advisor, Broker)",9.905332113620526e-05
+B1_b_Never,9.623472412676208e-05
+BNPL4_a_iflag,8.645704071284536e-05
+ppstaten_nd,7.767380261522607e-05
+ppreg9_Mid-Atlantic,7.19603428230685e-05
+pprent_Owned or being bought by you or someone in your household,5.646487415127965e-05
+E2_iflag,5.1018764264674135e-05
+ppmarit5_Now married,3.6835319469282024e-05
+L0_a_Yes,3.0373472629449346e-05
+field_day,2.974425105996946e-05
+ppcm1301_Not asked,2.573019669222248e-05
+ED0_Bachelor’s degree,1.1774645274826691e-05
+EF7_iflag,4.249197155610591e-06
+CH2A_High school degree or GED,4.1832196614251725e-06
+INF3_e_Yes,1.5786260648459495e-06
+I41_c_Yes,1.01428371047988e-06
+B7_b_Good,1.2010959853212058e-07
+L0B_b_iflag,0.0
+ED1_Vocational / technical training,0.0
+SL1_Yes,0.0
+EF3_f_Yes,0.0
+"I40_$50,000 to $59,999",0.0
+EF3_g_Yes,0.0
+L0B_a_iflag,0.0
+SL11_No,0.0
+L0_e_iflag,0.0
+L0_d_iflag,0.0
+EF3_d_Yes,0.0
+ppcm1301_Private-for-profit company,0.0
+L0_c_iflag,0.0
+ppcm1301_Refused,0.0
+L0_b_iflag,0.0
+ppcm1301_Self-employed,0.0
+EF3_b_Yes,0.0
+ind1_-2,0.0
+L0B_c_iflag,0.0
+INF4_Much better,0.0
+I0_a_Yes,0.0
+I0_c_Yes,0.0
+I0_d_Yes,0.0
+I0_e_Yes,0.0
+"ind1_Professional, Scientific, Technical, and Business Services",0.0
+I0_f_Yes,0.0
+ind1_Real Estate and Property Management,0.0
+ind1_Repairs and Maintenance,0.0
+ind1_Retail/Stores/Shopping (including Online Retail),0.0
+"ind1_Personal Services (including Beauty, Pet Care, and Household)",0.0
+L0_a_iflag,0.0
+"I40_$150,000 to $199,999",0.0
+"ind1_Utilities, Waste Management, and Remediation Services",0.0
+I9_Varies quite often from month to month,0.0
+I9_Roughly the same amount each month,0.0
+"I40_$20,000 to $24,999",0.0
+I41_a_Yes,0.0
+"I40_$25,000 to $29,999",0.0
+"I40_$30,000 to $34,999",0.0
+ppcm1301_Non-profit organization including tax exempt and charitable organizations,0.0
+"I40_$75,000 to $99,999",0.0
+"I40_$40,000 to $49,999",0.0
+"I40_$60,000 to $74,999",0.0
+"I40_$15,000 to $19,999",0.0
+B3B_d_iflag,0.0
+control_Public,0.0
+B3B_c_iflag,0.0
+B3B_b_iflag,0.0
+B3B_a_iflag,0.0
+B3A_e_iflag,0.0
+B3A_d_iflag,0.0
+B3A_c_iflag,0.0
+ED0_Some college but no degree (including currently enrolled in college),0.0
+B3A_a_iflag,0.0
+B3_iflag,0.0
+B2_iflag,0.0
+ED0_High school degree or GED,0.0
+ED0_Doctoral degree,0.0
+ED0_Certificate or technical degree,0.0
+S16_c_Yes,0.0
+S16_b_Yes,0.0
+B3A_b_iflag,0.0
+DOV_GIGSplit,0.0
+BK2_d_Yes,0.0
+BK2_c_Yes,0.0
+BK2_b_Yes,0.0
+Status_Currently Reserves,0.0
+Status_None of the above,0.0
+"Status_Veteran, including reserves",0.0
+pph10001_Fair,0.0
+ppfs1482_Poor,0.0
+ND2_Somewhat higher,0.0
+pph10001_Poor,0.0
+ppfs0001_Another household member makes all or most of the decisions,0.0
+BK47_b_Yes,0.0
+ppfs0001_I make all or  most of the decisions,0.0
+B7_a_iflag,0.0
+B3B_e_iflag,0.0
+ppfs1482_Good,0.0
+ND2_Somewhat lower,0.0
+ED1_Health,0.0
+ED1_Engineering,0.0
+ED1_Education,0.0
+ED1_Computer / information sciences,0.0
+"D1G_Yes, as a part-time student",0.0
+educ_4cat_Less than a high school degree,0.0
+"D1G_Yes, as a full-time student",0.0
+"ED0_Professional degree (e.g., MBA, MD, JD)",0.0
+pph12004_No,0.0
+ED0_Less than high school degree,0.0
+K5A_c_Yes,0.0
+ppfs1482_Very poor,0.0
+field_month,0.0
+DC4_Slightly comfortable,0.0
+K21_f_Yes,0.0
+K21_b_Yes,0.0
+K0_No,0.0
+ED0_Master’s degree,0.0
+BNPL1_Yes,0.0
+pph12005_No,0.0
+pph12006_No,0.0
+C3P_paid at least the minimum payment on all credit cards,0.0
+race_5cat_Black,0.0
+race_5cat_Hispanic,0.0
+A0B_Yes,0.0
+race_5cat_Other,0.0
+educ_4cat_High school degree or GED,0.0
+A6_Somewhat confident,0.0
+ED1_Social / behavioral sciences,0.0
+ED1_Physical sciences/math,0.0
+ED1_Other,0.0
+ED1_Life sciences,0.0
+ED1_Law,0.0
+"inc_4cat_50k_$50,000–$99,999",0.0
+ED1_Humanities / arts,0.0
+"inc_4cat_50k_$25,000–$49,999",0.0
+ppstaten_id,0.0
+ppstaten_ia,0.0
+ppcm0160_Sales,0.0
+ppstaten_ga,0.0
+ppstaten_fl,0.0
+ppstaten_de,0.0
+ppcm0160_Transportation and Material Moving,0.0
+ppstaten_ct,0.0
+B0_b_Very well,0.0
+ppstaten_ca,0.0
+ppstaten_az,0.0
+ppstaten_ar,0.0
+ppstaten_al,0.0
+pprent_Rented for cash,0.0
+ppreg9_West-South Central,0.0
+ppstaten_ne,0.0
+ppstaten_nc,0.0
+ppstaten_co,0.0
+pphouse4_Building with 2 or more apartments,0.0
+ppgender_Male,0.0
+"ppethm_Other, Non-Hispanic",0.0
+ppcm0160_Office and Administrative Support,0.0
+"ppethm_Black, Non-Hispanic",0.0
+ppemploy_Working part-time,0.0
+ppcm0160_Other (Please specify),0.0
+ppeducat_Some college or Associate's degree,0.0
+ppmarit5_Never married,0.0
+ppreg9_West-North Central,0.0
+ppreg9_Pacific,0.0
+ppreg9_Mountain,0.0
+ppreg9_East-South Central,0.0
+ppreg4_West,0.0
+ppcm0160_Personal Care and Service,0.0
+ppcm0160_Refused,0.0
+ppmarit5_Widowed,0.0
+ppmarit5_Separated,0.0
+ppeducat_No high school diploma or GED,0.0
+ppstaten_ok,0.0
+ppstaten_oh,0.0
+ppstaten_ny,0.0
+ppstaten_nv,0.0
+ppstaten_nm,0.0
+"ppcm0160_Farming, Forestry, and Fishing",0.0
+"ppcm0160_Education, Training, and Library",0.0
+ppcm0160_Construction and Extraction,0.0
+ppstaten_mt,0.0
+ppstaten_wa,0.0
+ppcm0160_Community and Social Services,0.0
+ppstaten_wi,0.0
+ppcm0160_Business Operations (including Marketing),0.0
+ppcm0160_Building and Grounds Cleaning and Maintenance,0.0
+"ppcm0160_Arts, Design, Entertainment, Sports, and Media",0.0
+ppcm0160_Armed Services,0.0
+ppstaten_wv,0.0
+ppstaten_wy,0.0
+ppcm0160_Computer and Mathematical,0.0
+ppstaten_ms,0.0
+ppstaten_mo,0.0
+ppstaten_mn,0.0
+ppstaten_mi,0.0
+ppstaten_me,0.0
+ppstaten_md,0.0
+ppstaten_vt,0.0
+ppstaten_la,0.0
+ppstaten_or,0.0
+ppstaten_in,0.0
+ppstaten_il,0.0
+ppstaten_va,0.0
+ppstaten_ut,0.0
+ppstaten_tx,0.0
+ppstaten_tn,0.0
+ppstaten_sd,0.0
+ppstaten_sc,0.0
+ppstaten_pa,0.0
+ppstaten_ks,0.0
+E2_Yes,0.0
+E1_e_Yes,0.0
+"ind1_Farming/Agriculture, Forestry, Fishing and Hunting, and Animal Production",0.0
+E1_c_Yes,0.0
+"ind1_Finance, Banking, and Insurance",0.0
+E1_b_Yes,0.0
+E1_a_Yes,0.0
+E8_c_Yes,0.0
+pphouse4_One-family condo or townhouse attached to other units,0.0
+E8_a_Yes,0.0
+FD3_Sometimes not enough to eat,0.0
+FD3_Often not enough to eat,0.0
+"FD3_Enough, but not always the kinds of food we wanted to eat",0.0
+"ind1_Health Care (including Elder Care, Home Health Care)",0.0
+B1_b_Often,0.0
+DOV_D36_AMOUNT_decreased your pay by 10 percent,0.0
+CH2A_Some college but no degree,0.0
+E8_b_Yes,0.0
+ind1_Accommodation and Food Services,0.0
+INF3_b_Yes,0.0
+"ind1_Administrative and Support Services (such as Call Centers, Security, Landscaping, and Janitorial)",0.0
+INF4_Somewhat worse,0.0
+INF4_Somewhat better,0.0
+INF4_Much worse,0.0
+"ind1_Arts, Entertainment, and Recreation",0.0
+B0_c_Very well,0.0
+"ind1_Factory, Manufacturing, and Woodworking",0.0
+B0_c_Somewhat,0.0
+B0_c_Not at all,0.0
+ind1_Child Day Care Services,0.0
+ind1_Community/Non-Profit Organizations (including Religious and Political Organizations),0.0
+ind1_Construction and Specialty Contractors (such as Plumbing and Electrical),0.0
+"ind1_Delivery Services, Warehousing, and Transportation (including Air, Rail, Water, Truck, and Passenger)",0.0
+ind1_Education and Tutoring,0.0
+B0_a_Very little,0.0
+B0_a_Not at all,0.0
+B0_c_Very little,0.0
+ppcm0160_Legal,0.0
+ppagect4_30–44,0.0
+ppagecat_75+,0.0
+ppagecat_65-74,0.0
+ppagecat_55-64,0.0
+ppagecat_45-54,0.0
+ppagecat_35-44,0.0
+ppagecat_25-34,0.0
+CH2A_Refused,0.0
+DOV_D36_AMOUNT_decreased your pay by 5 percent,0.0
+"ppinc7_$75,000 to $99,999",0.0
+"ppcm0160_Life, Physical, and Social Sciences",0.0
+ppcm0160_Management,0.0
+"ppinc7_$50,000 to $74,999",0.0
+"ppinc7_$25,000 to $49,999",0.0
+"ppinc7_$150,000 or more",0.0
+ppcm0160_Not asked,0.0
+"pphouse4_Other (mobile home, boat, RV, van, etc.)",0.0
+DOV_D36_AMOUNT_kept your pay the same for a year,0.0
+CH2A_Less than high school degree,0.0
+CH2A_Graduate degree,0.0
+CH2A_Don’t know,0.0
+CH2A_Certificate or technical degree,0.0
+"ind1_Information (including Publishing, Media, Telecom, Internet Search, and Social Networking)",0.0
+E4_f_Yes,0.0
+ind1_Management of Companies and Enterprises,0.0
+ppcm0160_Food Preparation and Serving,0.0
+ppagect4_60+,0.0
+"ppcm0160_Health Diagnosing or Treating Practitioner (such as physician, nurse, dentist, veterinarian, pharmacist)",0.0
+"ppcm0160_Health Technologist or Technician (such as paramedic, lab technician)",0.0
+E4_a_Yes,0.0
+E2B_Yes,0.0
+ppeducat_High school graduate (high school diploma or the equivalent GED),0.0
+"ppcm0160_Installation, Maintenance, and Repair",0.0
+ppeduc5_No high school diploma or GED,0.0
+ppeduc5_Master’s degree or higher,0.0
+ppeduc5_High school graduate (high school diploma or the equivalent GED),0.0
+E4_d_Yes,0.0
+R1_d_iflag,0.0
+R1_c_iflag,0.0
+R1_b_iflag,0.0
+R1_a_iflag,0.0
+GH13_d_iflag,0.0
+GH13_c_iflag,0.0
+GH13_b_iflag,0.0
+GH13_a_iflag,0.0
+GH12_iflag,0.0
+GH1_iflag,0.0
+UNION100_Yes,0.0
+GE62_e_iflag,0.0
+GH3_b_iflag,0.0
+GH3_a_iflag,0.0
+R11_iflag,0.0
+R3_iflag,0.0
+R5C_d_iflag,0.0
+R5C_c_iflag,0.0
+R5C_b_iflag,0.0
+R5C_a_iflag,0.0
+R5B_d_iflag,0.0
+R5B_c_iflag,0.0
+GE62_f_iflag,0.0
+D41_g_iflag,0.0
+D41_f_iflag,0.0
+D41_c_iflag,0.0
+D41_b_iflag,0.0
+D41_a_iflag,0.0
+D5_iflag,0.0
+D1B_iflag,0.0
+GE62_d_iflag,0.0
+GE62_c_iflag,0.0
+GE62_b_iflag,0.0
+GE20C_iflag,0.0
+R1_e_iflag,0.0
+GE1E_d_iflag,0.0
+GE1E_c_iflag,0.0
+GE1E_b_iflag,0.0
+GE1E_a_iflag,0.0
+GE1D_iflag,0.0
+GE1C_iflag,0.0
+GE1B_iflag,0.0
+GE1A_iflag,0.0
+GE2B_iflag,0.0
+R1_g_iflag,0.0
+R1_f_iflag,0.0
+GE1E_e_iflag,0.0
+BK52_b_iflag,0.0
+BK52_a_iflag,0.0
+BK51_iflag,0.0
+BK50_iflag,0.0
+BK49B_iflag,0.0
+BK49A_iflag,0.0
+BK48_iflag,0.0
+BK47_b_iflag,0.0
+BK47_a_iflag,0.0
+BK2_f_iflag,0.0
+BK2_e_iflag,0.0
+R5B_b_iflag,0.0
+A8_b_iflag,0.0
+A8_a_iflag,0.0
+A1_c_iflag,0.0
+A1_b_iflag,0.0
+A1_a_iflag,0.0
+A0B_iflag,0.0
+A7_f_iflag,0.0
+A7_e_iflag,0.0
+A7_d_iflag,0.0
+A7_c_iflag,0.0
+A7_b_iflag,0.0
+BK2_d_iflag,0.0
+R5B_a_iflag,0.0
+R4_iflag,0.0
+GH2_iflag,0.0
+R1_h_iflag,0.0
+BK2_c_iflag,0.0
+BK2_b_iflag,0.0
+BK2_a_iflag,0.0
+BK1_iflag,0.0
+ND4_c_iflag,0.0
+ND4_b_iflag,0.0
+ND4_a_iflag,0.0
+BK52_c_iflag,0.0
+ND1_d_iflag,0.0
+ND1_c_iflag,0.0
+ND1_b_iflag,0.0
+ND1_a_iflag,0.0
+ND0_iflag,0.0
+GH3_e_iflag,0.0
+GH3_d_iflag,0.0
+GH3_c_iflag,0.0
+BK52_f_iflag,0.0
+BK52_e_iflag,0.0
+BK52_d_iflag,0.0
+ND2_iflag,0.0
+ppracem_Asian,0.0
+CG7_e_iflag,0.0
+CG7_d_iflag,0.0
+CG7_c_iflag,0.0
+CG7_b_iflag,0.0
+CG7_a_iflag,0.0
+CG2_iflag,0.0
+CG1A_iflag,0.0
+CG0_iflag,0.0
+X13_iflag,0.0
+D41_h_iflag,0.0
+X12_f_iflag,0.0
+X12_e_iflag,0.0
+X12_d_iflag,0.0
+X12_c_iflag,0.0
+X12_b_iflag,0.0
+X12_a_iflag,0.0
+D48_iflag,0.0
+D4_iflag,0.0
+D1A_iflag,0.0
+CG6_iflag,0.0
+CG5_f_iflag,0.0
+X12_g_iflag,0.0
+DOV_X12_ORDER_a_iflag,0.0
+DOV_X12_ORDER_b_iflag,0.0
+DOV_X12_ORDER_c_iflag,0.0
+DOV_X12_ORDER_d_iflag,0.0
+DOV_X12_ORDER_e_iflag,0.0
+DOV_X12_ORDER_f_iflag,0.0
+DOV_X12_ORDER_g_iflag,0.0
+DOV_D36_AMOUNT_iflag,0.0
+DOV_GIGSplit_iflag,0.0
+pphhsize,0.0
+UNION100_Refused,0.0
+ppracem_Black or African American,0.0
+ppracem_American Indian or Alaska Native,0.0
+DOV_X11,0.0
+control_Private nonprofit,0.0
+ppp20197_Yes,0.0
+"pppa_lgb_Straight, that is, not gay",0.0
+pppa_lgb_Gay or lesbian,0.0
+"pphispan_Yes, Puerto Rican",0.0
+"pphispan_Yes, Other",0.0
+"pphispan_Yes, Mexican, Mexican-American, Chicano",0.0
+"pphispan_Yes, Cuban, Cuban American",0.0
+ppracem_Native Hawaiian/Pacific Islander,0.0
+educ_4cat_Some college/technical or associates degree,0.0
+D1E_iflag,0.0
+D3B_iflag,0.0
+D39_iflag,0.0
+D38_f_iflag,0.0
+D38_d_iflag,0.0
+D38_c_iflag,0.0
+D38_b_iflag,0.0
+D38_a_iflag,0.0
+D37A_iflag,0.0
+D44_e_iflag,0.0
+D44_d_iflag,0.0
+CG5_e_iflag,0.0
+D44_b_iflag,0.0
+D44_a_iflag,0.0
+D44_f_iflag,0.0
+D36B_iflag,0.0
+D34A_iflag,0.0
+D47_iflag,0.0
+GE12_c_iflag,0.0
+GE12_b_iflag,0.0
+GE12_a_iflag,0.0
+GE2A_iflag,0.0
+D41_i_iflag,0.0
+D44_c_iflag,0.0
+CG5_d_iflag,0.0
+CG5_c_iflag,0.0
+CG5_b_iflag,0.0
+CG5_a_iflag,0.0
+CG4_iflag,0.0
+CG3_iflag,0.0
+CG8_iflag,0.0
+CG9_iflag,0.0
+CG7_g_iflag,0.0
+CG7_f_iflag,0.0
+D30_iflag,0.0
+D22_a_iflag,0.0
+D28_a_iflag,0.0
+D3E_iflag,0.0
+D3A_iflag,0.0
+D22_i_iflag,0.0
+D22_h_iflag,0.0
+D22_g_iflag,0.0
+D22_f_iflag,0.0
+D22_e_iflag,0.0
+D22_d_iflag,0.0
+D22_c_iflag,0.0
+D22_b_iflag,0.0
+D28_b_iflag,0.0
+real_income_2023,0.0
+min_wage,0.0
+CH2A_iflag,0.0
+E4_f_iflag,0.0
+E4_e_iflag,0.0
+E4_d_iflag,0.0
+E4_c_iflag,0.0
+B7_b_Only fair,0.0
+B7_a_Good,0.0
+B3_Somewhat worse off,0.0
+A7_a_iflag,0.0
+B3_Much worse off,0.0
+B3_Much better off,0.0
+B2_Just getting by,0.0
+B2_Finding it difficult to get by,0.0
+L0_d_Yes,0.0
+L0_c_Yes,0.0
+D3A_Working for someone else,0.0
+D3A_Self-employed (working for myself),0.0
+D22_i_Yes,0.0
+D22_g_Yes,0.0
+D22_e_Yes,0.0
+B3_Somewhat better off,0.0
+EF3_h_iflag,0.0
+EF3_g_iflag,0.0
+EF3_f_iflag,0.0
+EF3_e_iflag,0.0
+EF3_d_iflag,0.0
+EF3_c_iflag,0.0
+EF3_b_iflag,0.0
+E4_b_iflag,0.0
+E4_a_iflag,0.0
+E2B_iflag,0.0
+E1_e_iflag,0.0
+x2023_Yes,0.0
+E1_c_iflag,0.0
+E1_b_iflag,0.0
+E1_a_iflag,0.0
+E8_c_iflag,0.0
+E8_b_iflag,0.0
+E8_a_iflag,0.0
+FD3_iflag,0.0
+B1_b_iflag,0.0
+B1_a_iflag,0.0
+xlaptop_Yes,0.0
+x2022_Yes,0.0
+E1_d_iflag,0.0
+GH3_a_Very dissatisfied,0.0
+GH3_a_Somewhat satisfied,0.0
+GH3_a_Somewhat dissatisfied,0.0
+GH2_2024,0.0
+GH13_d_Yes,0.0
+GH13_b_Yes,0.0
+GH1_Pay rent,0.0
+ND2_Much higher,0.0
+"ND0_Yes, substantially",0.0
+"ND0_Yes, moderately",0.0
+GH3_e_Very dissatisfied,0.0
+D22_d_Yes,0.0
+GH3_e_Somewhat dissatisfied,0.0
+GH3_d_Very satisfied,0.0
+GH3_d_Very dissatisfied,0.0
+GH3_d_Somewhat satisfied,0.0
+GH3_d_Somewhat dissatisfied,0.0
+GH3_c_Very satisfied,0.0
+GH3_c_Somewhat satisfied,0.0
+GH3_c_Somewhat dissatisfied,0.0
+L0E_iflag,0.0
+L0C_iflag,0.0
+BK47_a_Yes,0.0
+GH3_e_Somewhat satisfied,0.0
+D22_c_Yes,0.0
+D22_a_Yes,0.0
+D1E_Yes,0.0
+D4_Yes,0.0
+CG4_Yes,0.0
+X11_none_Yes,0.0
+GE1B_Yes,0.0
+GE2A_Yes,0.0
+D5_Yes,0.0
+D1B_Somewhat confident,0.0
+D1B_Not working and not interested in working right now,0.0
+GH3_a_Very satisfied,0.0
+D44_d_Yes,0.0
+D44_c_Yes,0.0
+D44_b_Yes,0.0
+D44_a_Yes,0.0
+D44_f_Yes,0.0
+D47_Yes,0.0
+D47_No,0.0
+GH3_b_Very satisfied,0.0
+GH3_b_Very dissatisfied,0.0
+GH3_b_Somewhat satisfied,0.0
+GH3_b_Somewhat dissatisfied,0.0
+D44_e_Yes,0.0
+S18_iflag,0.0
+S16_c_iflag,0.0
+S16_b_iflag,0.0
+S16_a_iflag,0.0
+BNPL4_g_iflag,0.0
+BNPL4_f_iflag,0.0
+K9_c_iflag,0.0
+K9_b_iflag,0.0
+K9_a_iflag,0.0
+K0_iflag,0.0
+EF5C_iflag,0.0
+SL13_iflag,0.0
+SL11_iflag,0.0
+SL10A_iflag,0.0
+SL8_e_iflag,0.0
+SL8_d_iflag,0.0
+SL8_c_iflag,0.0
+SL8_b_iflag,0.0
+SL8_a_iflag,0.0
+SL7_iflag,0.0
+SL6_iflag,0.0
+K21_e_iflag,0.0
+D1I_iflag,0.0
+BK52_h_iflag,0.0
+BK52_g_iflag,0.0
+BNPL4_e_iflag,0.0
+BNPL4_d_iflag,0.0
+BNPL4_c_iflag,0.0
+BNPL4_b_iflag,0.0
+BNPL3A_iflag,0.0
+BNPL3_iflag,0.0
+BNPL1_iflag,0.0
+C4A_iflag,0.0
+C2A_iflag,0.0
+S21_iflag,0.0
+A8_f_iflag,0.0
+A8_e_iflag,0.0
+A8_d_iflag,0.0
+A8_c_iflag,0.0
+SL4_iflag,0.0
+SL4A_iflag,0.0
+SL3_iflag,0.0
+SL1_iflag,0.0
+ED1_iflag,0.0
+ED0D_iflag,0.0
+ED0B_iflag,0.0
+A2_iflag,0.0
+K5A_b_iflag,0.0
+K5A_a_iflag,0.0
+DC4_iflag,0.0
+EF3_a_iflag,0.0
+INF3_g_iflag,0.0
+INF3_f_iflag,0.0
+INF3_e_iflag,0.0
+INF3_d_iflag,0.0
+INF3_c_iflag,0.0
+INF3_b_iflag,0.0
+INF3_a_iflag,0.0
+K21_d_iflag,0.0
+I21_b_iflag,0.0
+I21_a_iflag,0.0
+I20_iflag,0.0
+I12_iflag,0.0
+I9_iflag,0.0
+B0_c_iflag,0.0
+B0_b_iflag,0.0
+EF6C_d_iflag,0.0
+EF6C_c_iflag,0.0
+EF6C_b_iflag,0.0
+EF6C_a_iflag,0.0
+INF4_iflag,0.0
+K21_c_iflag,0.0
+K21_b_iflag,0.0
+K21_a_iflag,0.0
+K15_e_iflag,0.0
+K15_d_iflag,0.0
+K15_c_iflag,0.0
+K15_b_iflag,0.0
+K15_a_iflag,0.0
+K14_a_iflag,0.0
+K9_f_iflag,0.0
+K9_e_iflag,0.0
+K5A_c_iflag,0.0
+I41_e_iflag,0.0
+I41_d_iflag,0.0
+I41_c_iflag,0.0
+I41_a_iflag,0.0
+I40_iflag,0.0
+I0_f_iflag,0.0
+I0_e_iflag,0.0
+I0_d_iflag,0.0
+I0_c_iflag,0.0
+I0_b_iflag,0.0
+I0_a_iflag,0.0
+K9_d_iflag,0.0
