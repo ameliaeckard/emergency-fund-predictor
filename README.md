@@ -1,5 +1,7 @@
 # Emergency Fund Predictor _(emergency-fund-predictor)_
 
+Lab report: [Emergency Fund Predictor](https://lab.ameliaeckard.com/notes/2026-10-08-emergency-fund-predictor)
+
 A machine-learning study of financial fragility using Federal Reserve SHED and regional economic data.
 
 ## Background
@@ -42,7 +44,3 @@ Primary sources are the Federal Reserve 2024 SHED, Bureau of Economic Analysis r
 ## Contributing
 
 Issues are welcome for bugs or documentation problems. Please open an issue before a substantial pull request.
-
-## License
-
-UNLICENSED © Amelia Eckard.
